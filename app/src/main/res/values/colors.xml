@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="rippleColor">#1E276B</color>
+    <color name="statusBar">#00897B</color>
+    <color name="customBlack">#111</color>
+    <color name="iconColor">#283593</color>
+    <color name="deep_green">#00A200</color> <!-- This is a hex code for a deep green color -->
+    <color name="primary_green">#3A7B6D</color>
+    <color name="light_green">#A8D8C9</color>
+    <color name="dark_gray">#424242</color>
+    <color name="light_gray_background">#F0F0F0</color>
+</resources>
